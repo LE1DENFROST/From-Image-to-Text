@@ -1,3 +1,5 @@
+Read Me
+
 - A simple application that works with the Pytesseract library and writes the words on the image to the text field.
 
 - To download PyTesseract ->
